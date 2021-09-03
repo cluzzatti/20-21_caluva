@@ -5,7 +5,7 @@
 * Software
   * Para ejecutar en local descar Anaconda en https://www.anaconda.com/products/individual
 * Librerias necesarias para ejecutarlo
-  * Instalar Keras y tensorflow, desde anaconda prompt ejecutar la instruccion conda install -c conda-forge tensorflow
+  * Instalar Keras y tensorflow, desde anaconda prompt ejecutar la instrucción conda install -c conda-forge tensorflow
   * Instalar Keras instrucción pip install keras
   * Actualizar librerias scikit-learn conda update scikit-learn
   * Al ejecutar el programa por primera vez ejecutar linea #nltk.download('punkt')
