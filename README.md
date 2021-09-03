@@ -17,11 +17,14 @@
   * Lenguaje de programación
      * Descargar python https://www.python.org/downloads/windows/
 * Arquitectura 
-  * Se ejecuta a traves de localhost 
+  * Se ejecuta en localhost a traves del navegador 
   * Codigo en vivo , se puede ejecutar independientemente una celda 
+  * Aprendizaje supervisado
 * Archivo necesarios para su ejecución
   * Necesitamos el archivo spam_ham_dataset incluido en la carpeta Dataset del proyecto
+* Ejecución
+  * Se puede ejecutar mientras por el terminal con la instrucción jupyter notebook, nos abrira el navegador y podremos seleccionar la ruta del proyecto, nos aparece un menu muy    simple en el que debemos seleccionar run para ejecutarlo
 * Uso básico
   * Analizara documento de texto para usar aprendizaje automatico para clasificar el texto del correo en espam y no spam  en un      
-    modelo predefinido y otro basado en redes neuronales , mostrara una grafica con varios modelos predefinidos indicando el tiempo y la exactitud del modelo, modelo predefinido     usado COMPLEMENTNB .
+    modelo predefinido y otro basado en redes neuronales , mostrara una grafica con varios modelos predefinidos indicando el tiempo y la exactitud del modelo y se comparara la exactitud de ambos modelos, modelo predefinido     usado COMPLEMENTNB .
   
