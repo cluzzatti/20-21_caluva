@@ -14,5 +14,6 @@
 * Lenguaje de programación
   * Descargar python https://www.python.org/downloads/windows/
 * Uso básico
-  * Analizara documento de texto para usar aprendizaje automatico en un modelo predefinido y otro basado en redes neuronales.
+  * Analizara documento de texto para usar aprendizaje automatico para clasificar el texto del correo en espam y no spam  en un      
+    modelo predefinido y otro basado en redes neuronales , mostrara una grafica con varios modelos predefinidos indicando el tiempo y la exactitud del modelo , modelo predefinido     usado COMPLEMENTNB .
   
