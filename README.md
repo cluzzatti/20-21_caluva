@@ -13,6 +13,8 @@
   * nltk.download('stopwords')
 * Lenguaje de programación
   * Descargar python https://www.python.org/downloads/windows/
+* Archivo necesarios para su ejecución
+  * Necesitamos el archivo spam_ham_dataset incluido en la carpeta Dataset del proyecto
 * Uso básico
   * Analizara documento de texto para usar aprendizaje automatico para clasificar el texto del correo en espam y no spam  en un      
     modelo predefinido y otro basado en redes neuronales , mostrara una grafica con varios modelos predefinidos indicando el tiempo y la exactitud del modelo , modelo predefinido     usado COMPLEMENTNB .
