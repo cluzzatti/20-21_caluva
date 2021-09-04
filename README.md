@@ -20,6 +20,11 @@
   * Se ejecuta en localhost a traves del navegador 
   * Codigo en vivo , se puede ejecutar independientemente una celda 
   * Aprendizaje supervisado
+* Estructura de los archivos del programa
+  * Proyecto
+      * Dataset
+        * spam_ham_dataset
+      * Clasificador_spam.ipynb
 * Archivo necesarios para su ejecución
   * Necesitamos el archivo spam_ham_dataset incluido en la carpeta Dataset del proyecto
 * Ejecución
