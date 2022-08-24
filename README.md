@@ -1,8 +1,8 @@
-# Información de usuario 20-21_caluva 
+# Información de usuario 21-22_caluva 
 * Autor : Carlos Luzzatti Vázquez
 * Descripción y tema:
   * Tema del tabajo: IA/Machine Learning aplicada a ciberseguridad
-  * Descripción: Machine learning para la clasificación de spam no spam
+  * Descripción: Comparativa con varias Machine learning para la clasificación de spam no spam usando varios tipos de ML
 * Prerrequisitos 
   * Software necesario para el entorno
      * Para ejecutar en local descargar Anaconda en https://www.anaconda.com/products/individual
@@ -28,8 +28,11 @@
 * Archivo necesarios para su ejecución
   * Necesitamos el archivo spam_ham_dataset incluido en la carpeta Dataset del proyecto
 * Ejecución
-  * Se puede ejecutar mientras por el terminal con la instrucción jupyter notebook, nos abrira el navegador y podremos seleccionar la ruta del proyecto, nos aparece un menu muy    simple en el que debemos seleccionar run para ejecutarlo
+  * Se puede ejecutar mientras por el terminal con la instrucción jupyter notebook, nos abrira el navegador y podremos seleccionar la ruta del proyecto, nos aparece un menu muy simple en el que debemos seleccionar run para ejecutarlo
 * Uso básico
-  * Analizara documento de texto para usar aprendizaje automatico para clasificar el texto del correo en espam y no spam  en un      
-    modelo predefinido y otro basado en redes neuronales , mostrara una grafica con varios modelos predefinidos indicando el tiempo y la exactitud del modelo y se comparara la exactitud de ambos modelos, modelo predefinido     usado COMPLEMENTNB .
+  * Analizara documento de texto para usar aprendizaje automatico para clasificar el texto del correo en spam y no spam
+  * Mostrara una grafica con varios modelos predefinidos indicando el tiempo y la exactitud del modelo y para obtener el rendimiento de varios modelos predefinidos
+  * Modelo predefinido despues de valorar el rendimiento COMPLEMENTNB
+  * Realizara la clasificicacion usando en un modelo predefinido y otro basado en redes neuronales  y realizara la comparativa de la exactitud de ambos modelos.     
+ 
   
