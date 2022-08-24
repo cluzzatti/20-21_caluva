@@ -2,7 +2,8 @@
 * Autor : Carlos Luzzatti Vázquez
 * Descripción y tema:
   * Tema del tabajo: IA/Machine Learning aplicada a ciberseguridad
-  * Descripción: Comparativa con varias Machine learning para la clasificación de spam no spam usando varios tipos de ML
+  * Descripción: Comparativa con varias Machine learning para la clasificación de spam no spam usando varios tipos de ML y luego comparar la exactitud que nos devuelve 
+  * Objetivos: Con un mismo set de datos obtener el rendimiento de los principales ML basados en modelos predefinidos en forma gráfica y obtener el mas conveniente para los siguientes experimentos, despues comparar la exactitud del modelo seleccionado en contra de un modelo basado en redes neuronales
 * Prerrequisitos 
   * Software necesario para el entorno
      * Para ejecutar en local descargar Anaconda en https://www.anaconda.com/products/individual
@@ -20,6 +21,7 @@
   * Se ejecuta en localhost a traves del navegador 
   * Codigo en vivo , se puede ejecutar independientemente una celda 
   * Aprendizaje supervisado
+  * Gráficas
 * Estructura de los archivos del programa
   * Proyecto
       * Dataset
