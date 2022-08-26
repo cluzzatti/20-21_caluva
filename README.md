@@ -90,5 +90,5 @@
   * https://keras.io/api/losses/
   * https://keras.io/guides/training_with_built_in_methods/
 
-
+* Licencia de codigo abierto
   
