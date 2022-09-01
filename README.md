@@ -2,8 +2,8 @@
 * Autor : Carlos Luzzatti Vázquez
 * Descripción y tema:
   * Tema del tabajo: IA/Machine Learning aplicada a ciberseguridad
-  * Descripción: Comparativa el rendimiento con varias Machine learning para la clasificación de spam no spam usando varios tipos de ML y luego comparar la exactitud que nos devuelve 
-  * Objetivos: Con un mismo set de datos obtener el rendimiento de los principales ML basados en modelos predefinidos en forma gráfica y obtener el mas conveniente para los siguientes experimentos, despues comparar la exactitud del modelo seleccionado en contra de un modelo basado en redes neuronales
+  * Descripción: Creación de clasificador de correos spam utilizando varias técnicas de aprendizaje Machine Learning y comparativa de exactitud de los modelos usados.
+  * Objetivos: El objetivo principal es crear un clasificador de correos de spam utilizando varias técnicas de aprendizaje Machine Learning, para realizar nuestro objetivo realizaremos varias tareas (carga y análisis de datos, comparación entre diferentes alternativas existentes, comparar mejor alternativa existente con Machine Learning de redes neuronales)
 * Prerrequisitos 
   * Software necesario para el entorno
      * Para ejecutar en local descargar Anaconda en https://www.anaconda.com/products/individual
