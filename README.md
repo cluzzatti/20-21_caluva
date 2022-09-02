@@ -79,5 +79,6 @@
   * https://seaborn.pydata.org/
   * https://www.nltk.org/
   * https://keras.io/
-* Licencia de codigo abierto
+* Licencia MIT License
+
   
