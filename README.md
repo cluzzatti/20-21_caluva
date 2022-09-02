@@ -67,28 +67,17 @@
   * BernoulliNB Tiempo de entrenamiento 0.009632110595703125 Exactitud 0.9246376811594202
   * ComplementNB Tiempo de entrenamiento 0.009243011474609375 Exactitud 0.978743961352657
 * Uso básico
+  * Uso principal, analizara un documento de texto usando varias tecnicas de Machine Learning y obtendremos la exactitud
   * Analizara documento de texto para usar aprendizaje automatico para clasificar el texto del correo en spam y no spam
   * Mostrara una grafica con varios modelos predefinidos indicando el tiempo y la exactitud del modelo y para obtener el rendimiento de varios modelos predefinidos
   * Modelo predefinido despues de valorar el rendimiento COMPLEMENTNB
   * Realizara la clasificicacion usando en un modelo predefinido y otro basado en redes neuronales  y realizara la comparativa de la exactitud de ambos modelos.     
 * Fuentes referencia:
   * https://scikit-learn.org
-  * https://docs.python.org/3/library/warnings.html
-  * https://docs.python.org/3/library/optparse.html
-  * https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html
-  * https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.drop.html
-  * https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.head.html
-  * https://seaborn.pydata.org/generated/seaborn.countplot.html
-  * https://seaborn.pydata.org/generated/seaborn.set_theme.html
-  * https://www.nltk.org/_modules/nltk/tokenize/regexp.html
-  * https://pythonspot.com/nltk-stop-words/
-  * https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html
-  * https://scikit-learn.org/0.22/auto_examples/text/plot_document_classification_20newsgroups.html
-  * https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html
-  * https://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html
-  * https://keras.io/guides/sequential_model/
-  * https://keras.io/api/losses/
-  * https://keras.io/guides/training_with_built_in_methods/
-
+  * https://docs.python.org/
+  * https://pandas.pydata.org/
+  * https://seaborn.pydata.org/
+  * https://www.nltk.org/
+  * https://keras.io/
 * Licencia de codigo abierto
   
