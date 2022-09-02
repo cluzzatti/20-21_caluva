@@ -1,14 +1,14 @@
 # Información de usuario 21-22_caluva 
 * Autor : Carlos Luzzatti Vázquez
 * Descripción y tema:
-  * Tema del tabajo: IA/Machine Learning aplicada a ciberseguridad
+  * Tema del tabajo: IA/Machine Learning aplicada a ciberseguridad.
   * Descripción: Creación de clasificador de correos spam utilizando varias técnicas de aprendizaje Machine Learning y comparativa de exactitud de los modelos usados.
-  * Objetivos: El objetivo principal es crear un clasificador de correos de spam utilizando varias técnicas de aprendizaje Machine Learning, para realizar nuestro objetivo realizaremos varias tareas (carga y análisis de datos, comparación entre diferentes alternativas existentes, comparar mejor alternativa existente con Machine Learning de redes neuronales)
+  * Objetivos: El objetivo principal es crear un clasificador de correos de spam utilizando varias técnicas de aprendizaje Machine Learning, para realizar nuestro objetivo realizaremos varias tareas (carga y análisis de datos, comparación entre diferentes alternativas existentes, comparar mejor alternativa existente con Machine Learning de redes neuronales).
 * Prerrequisitos 
   * Software necesario para el entorno
      * Para ejecutar en local descargar Anaconda en https://www.anaconda.com/products/individual
-     * Dentro de la aplicación Anaconda utilizar jupyter notebook
-     * Se puede ejecutar con la instrucción jupyter lab
+     * Dentro de la aplicación Anaconda utilizar jupyter notebook.
+     * Se puede ejecutar con la instrucción jupyter lab.
   * Librerias necesarias para ejecutarlo
      * Instalar Keras y tensorflow, desde anaconda prompt ejecutar la instrucción conda install -c conda-forge tensorflow.
      * Instalar Keras instrucción pip install keras.
@@ -38,10 +38,11 @@
      * tensorflow Version 2.3.0
      * tensorflow-estimator Version 2.5.0
 * Arquitectura 
-  * Se ejecuta en localhost a traves del navegador 
-  * Codigo en vivo , se puede ejecutar independientemente una celda 
-  * Aprendizaje supervisado
-  * Gráficas
+  * Se ejecuta en localhost a traves del navegador.
+  * Codigo en vivo , se puede ejecutar independientemente una celda.
+  * Tipos de celda Markdown para añadir comentarios.
+  * Aprendizaje supervisado.
+  * Gráficas.
 * Estructura de los archivos del programa
   * Proyecto
       * Dataset
@@ -50,7 +51,7 @@
 * Archivo necesarios para su ejecución
   * Necesitamos el archivo spam_ham_dataset incluido en la carpeta Dataset del proyecto
 * Ejecución
-  * Se puede ejecutar mientras por el terminal con la instrucción jupyter notebook, nos abrira el navegador y podremos seleccionar la ruta del proyecto, nos aparece un menu muy simple en el que debemos seleccionar run para ejecutarlo
+  * Se puede ejecutar por el terminal con la instrucción jupyter notebook, nos abrira el navegador y podremos seleccionar la ruta del proyecto, nos aparece un menu muy simple en el que debemos seleccionar run para ejecutarlo
 * Modelos entrenados
   * RidgeClassifier Tiempo de entrenamiento 0.29766130447387695 Exactitud 0.8164251207729468
   * Perceptron Tiempo de entrenamiento 0.007395267486572266 Exactitud 0.9739130434782609
@@ -67,10 +68,10 @@
   * BernoulliNB Tiempo de entrenamiento 0.009632110595703125 Exactitud 0.9246376811594202
   * ComplementNB Tiempo de entrenamiento 0.009243011474609375 Exactitud 0.978743961352657
 * Uso básico
-  * Uso principal, analizara un documento de texto usando varias tecnicas de Machine Learning y obtendremos la exactitud
-  * Analizara documento de texto para usar aprendizaje automatico para clasificar el texto del correo en spam y no spam
-  * Mostrara una grafica con varios modelos predefinidos indicando el tiempo y la exactitud del modelo y para obtener el rendimiento de varios modelos predefinidos
-  * Modelo predefinido despues de valorar el rendimiento COMPLEMENTNB
+  * Uso principal, analizara un documento de texto usando varias tecnicas de Machine Learning y obtendremos la exactitud.
+  * Analizara documento de texto para usar aprendizaje automatico para clasificar el texto del correo en spam y no spam.
+  * Mostrara una grafica con varios modelos predefinidos indicando el tiempo y la exactitud del modelo y para obtener el rendimiento de varios modelos predefinidos.
+  * Modelo predefinido despues de valorar el rendimiento COMPLEMENTNB.
   * Realizara la clasificicacion usando en un modelo predefinido y otro basado en redes neuronales  y realizara la comparativa de la exactitud de ambos modelos.     
 * Fuentes referencia:
   * https://scikit-learn.org
@@ -79,6 +80,6 @@
   * https://seaborn.pydata.org/
   * https://www.nltk.org/
   * https://keras.io/
-* Licencia MIT License
+* Licencia MIT License.
 
   
