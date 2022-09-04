@@ -81,5 +81,5 @@
   * https://www.nltk.org/
   * https://keras.io/
 * Licencia MIT License.
-
+* Enlace defensa. https://youtu.be/4_t2tkAt4jk
   
